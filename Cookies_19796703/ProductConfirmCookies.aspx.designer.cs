@@ -105,6 +105,15 @@ namespace Cookies_19796703
         protected global::System.Web.UI.WebControls.Label Label5;
 
         /// <summary>
+        /// Control textArea1.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlTextArea textArea1;
+
+        /// <summary>
         /// Control Label6.
         /// </summary>
         /// <remarks>
@@ -159,6 +168,15 @@ namespace Cookies_19796703
         protected global::System.Web.UI.WebControls.Label lblNumberInStock;
 
         /// <summary>
+        /// Control lblValueInStock.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblValueInStock;
+
+        /// <summary>
         /// Control Label9.
         /// </summary>
         /// <remarks>
@@ -175,6 +193,15 @@ namespace Cookies_19796703
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label lblNumberOnOrder;
+
+        /// <summary>
+        /// Control lblValueOnOrder.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblValueOnOrder;
 
         /// <summary>
         /// Control Label10.

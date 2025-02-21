@@ -105,6 +105,15 @@ namespace Cookies_19796703
         protected global::System.Web.UI.WebControls.Label Label5;
 
         /// <summary>
+        /// Control TextArea1.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlTextArea TextArea1;
+
+        /// <summary>
         /// Control Label6.
         /// </summary>
         /// <remarks>

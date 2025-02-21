@@ -19,7 +19,7 @@ namespace Cookies_19796703
             Response.Cookies["ddlCategory"].Value = ddlCategory.SelectedValue;
             Response.Cookies["ddlSupplier"].Value = ddlSupplier.SelectedValue;
             Response.Cookies["strProduct"].Value = txtProduct.Text;
-            Response.Cookies["strDescription"].Value = txtProduct.Text;
+            Response.Cookies["strDescription"].Value = TextArea1.InnerText;
             Response.Cookies["strImage"].Value = txtImage.Text;
             Response.Cookies["decPrice"].Value = txtPrice.Text;
             Response.Cookies["bytNumberInStock"].Value = txtNumberInStock.Text;

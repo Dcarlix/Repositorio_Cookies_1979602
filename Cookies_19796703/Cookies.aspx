@@ -51,7 +51,7 @@
 						<asp:Label ID="Label5" runat="server" Text="Description"></asp:Label>
 					</asp:TableCell>
 					<asp:TableCell runat="server">
-						<textarea id="TextArea1" rows="2" cols="20"></textarea>
+						<textarea id="TextArea1" rows="2" cols="20" runat="server"></textarea>
 					</asp:TableCell>
 				</asp:TableRow>
 				<asp:TableRow runat="server">
